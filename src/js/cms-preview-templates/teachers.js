@@ -13,8 +13,7 @@ const MediaBlock = ({heading, text, imageUrl, reverse}) => {
     </div>
     <div className="ph3-m w-50-m">
       <h3 className="f3 b lh-title mb1">{heading}</h3>
-      {/* <p>{text}</p> */}
-      <p>{ widgetFor("text") }</p>
+      <p>{ text }</p>
     </div>
   </div>;
 };
