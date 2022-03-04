@@ -25,15 +25,18 @@ intro:
 products:
   - image: img/humuhumu-fish.jpeg
     text: >-
-      PROGRAMS & RATES
+      **PROGRAMS & RATES**
 
 
       Our classes cover a range of science subjects, with an emphasis on fun AND learning!
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    url: /programs
+  - image: img/cta2.jpeg
+    text: >-
+      **TAKE A CLASS**
+
+
+      Learn everything you need to know about taking a class and signing up with The Science Seed!
+    url: /take-a-class
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
