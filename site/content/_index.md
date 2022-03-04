@@ -1,13 +1,21 @@
 ---
 title: The Science Seed Demo Website
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: planting a love of science
 image: img/humuhumu-fish.jpeg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: About The Science Seed™
+  text: >-
+    The Science Seed™ is a science enrichment program designed to develop a love
+    of science that will last a lifetime. Children are natural scientists;
+    curious and full of the desire to observe and explore.  Preschool and early
+    elementary are the perfect times to start a lifelong love of science by
+    introducing students to basic concepts.
+
+
+    The Science Seed™ teaches geology, chemistry, biology, physics, nature and nutrition in fun, interactive and age-appropriate ways.  Instead of offering sessions in topic themes, we aim for students to understand the breadth of science…science is big and broad!  Therefore, any time your child is enrolled in our classes, whether it is an after school program, through the County classes or during their regular preschool day, they will have a mix of science disciplines.  By experiencing a broad range of topics, we hope all children will learn that they love science!
+
+
+    Does your child love a particular type of science?  Our themed camps will be perfect for them.  Our camp focus on one discipline for a week-long in-depth exploration!
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -15,12 +23,12 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+  - image: img/humuhumu-fish.jpeg
+    text: >-
+      PROGRAMS & RATES
+
+
+      Our classes cover a range of science subjects, with an emphasis on fun AND learning!
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
