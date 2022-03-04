@@ -37,4 +37,41 @@ values:
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
+teachers:
+  - text: >+
+      Ms. Allegra was not a fan of science until high school, when one teacher
+      changed her outlook.  A new-found lover of science, she received her B.S.
+      in Biology from Mary Washington College and M.S. in Coral Geochemistry
+      from the University of Maryland. Throughout the years she has tutored in
+      math and science, including SAT prep.  She also spent time teaching marine
+      science to elementary students in the Florida Keys and as a Teaching
+      Assistant to undergrads in Environmental Geology at UMD.  While teaching
+      at UMD, she won several teaching awards, including the Distinguished
+      Teaching Award in 2001.  The first decade of her career she has been
+      involved in marine and environmental research at the Smithsonian
+      Institution’s Marine Systems Lab and Paleobiology Department.
+
+
+      In 2004, Ms. Allegra took a break from research to stay home with her daughter, who was followed by a baby sister in 2005.  When her eldest daughter entered preschool in 2007, she wanted her to have a positive first experience to start her love of science early.  Ms. Allegra started teaching science to her daughter’s preschool class and the birth of The Science Seed™ concept began.
+
+    imageUrl: img/0258_3j0b0215r-final-e1490789561721.jpeg
+    heading: Allegra Jabo, Founder
+  - heading: Vesta Nelson
+    text: >
+      Ms. Vesta has been teaching children from preschool to middle school since
+      1996.  She received her BS in Elementary/Early Childhood at Kutztown
+      University in Kutztown, Pa. While attending Kutztown University, she
+      played field hockey and volunteered at a juvenile detention center. She
+      enjoyed helping children and decided to become a teacher. After
+      graduating, she moved to Virginia to live closer to her family and to
+      start teaching. Her first job was a first grade teacher in Prince George’s
+      County, MD.   In 2000, Ms. Vesta moved to Maryland and starting teaching
+      in Virginia. That’s where her love for teaching science began. She became
+      the Visiting Science Teacher for three schools in Alexandria City Public
+      Schools. She taught students from preschool through sixth grade hands-on
+      science experiments using the scientific method.  She also loves to spend
+      time with her nieces and nephews from Pennsylvania and Texas and has
+      enjoyed teaching for The Science Seed for several years. (Teaching with
+      The Science Seed since 2013)
+    imageUrl: https://thescienceseed.com/wp-content/uploads/2015/03/Vesta2.jpg
 ---
