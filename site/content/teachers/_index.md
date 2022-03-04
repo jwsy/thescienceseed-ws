@@ -1,6 +1,6 @@
 ---
 title: Teachers
-image: /img/about-jumbotron.jpg
+image: img/header1.jpeg
 values:
   - heading: Shade-grown coffee
     text: >
