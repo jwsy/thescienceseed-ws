@@ -38,7 +38,7 @@ values:
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
 teachers:
-  - text: >+
+  - text: >-
       Ms. Allegra was not a fan of science until high school, when one teacher
       changed her outlook.  A new-found lover of science, she received her B.S.
       in Biology from Mary Washington College and M.S. in Coral Geochemistry
@@ -52,8 +52,7 @@ teachers:
       Institution’s Marine Systems Lab and Paleobiology Department.
 
 
-      In 2004, Ms. Allegra took a break from research to stay home with her daughter, who was followed by a baby sister in 2005.  When her eldest daughter entered preschool in 2007, she wanted her to have a positive first experience to start her love of science early.  Ms. Allegra started teaching science to her daughter’s preschool class and the birth of The Science Seed™ concept began.
-
+      In 2004, Ms. Allegra took a break from research to stay home with her daughter, who was followed by a baby sister in 2005.  When her eldest daughter entered preschool in 2007, she wanted her to have a positive first experience to start her love of science early.  Ms. Allegra started teaching science to her daughter’s preschool class and the birth of **The Science Seed™** concept began.
     imageUrl: img/0258_3j0b0215r-final-e1490789561721.jpeg
     heading: Allegra Jabo, Founder
   - heading: Vesta Nelson
